@@ -23,17 +23,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists">
     <img src="frontend/src/assets/poro1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PORODUCTIVITY</h3>
 
   <p align="center">
-    Grow your poro(s) while getting things done!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
+    Grow your poro while getting things done!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     &middot;
@@ -80,7 +77,7 @@
 </p>
 
 
-The objective of this project is to create a Tamagotchi website that encourages productivity for all student users. This will be achieved by ensuring that the website has catered features and a clean user interface. The primary benefit of the applicatin is to reduce the mental load of the stakeholder by ensuring accurate, interactive, and usable tracking of the user’s student life. 
+The objective of this project is to create a Tamagotchi website that encourages productivity for all student users. This will be achieved by ensuring that the website has catered features and a clean user interface. The primary benefit of the application is to reduce the mental load of the stakeholder by ensuring accurate, interactive, and usable tracking of the user’s student life. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,16 +235,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists.svg?style=for-the-badge
+[contributors-url]: https://github.com/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists.svg?style=for-the-badge
+[forks-url]: https://github.com/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists/network/members
+[stars-shield]: https://img.shields.io/github/stars/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists.svg?style=for-the-badge
+[stars-url]: https://github.com/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists.svg?style=for-the-badge
+[issues-url]: https://github.com/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists/issues
+[license-shield]: https://img.shields.io/github/license/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists.svg?style=for-the-badge
+[license-url]: https://github.com/ECE444-2025FALL-UofT/project-1-web-application-development-group11-lesagilists/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
